@@ -1,0 +1,14 @@
+{
+  "name": "lab01-nhom12",
+  "version": "1.0.0",
+  "description": "Lab01 kiến trúc web - nhóm 12",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "client": "node client.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "markdown-pdf": "^11.0.0"
+  }
+}
